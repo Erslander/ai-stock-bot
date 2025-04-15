@@ -27,8 +27,6 @@ Bot decision: LONG (Price is expected to go up)
 
 ## Future Improvements
 
-- Add live trading integration via Alpaca API
-- Extend indicators and test with different ML algorithms
 - Switch to LSTM model for sequence-based predictions
 - Deploy via Streamlit as an interactive web app
 - Send trading signals via Telegram or Discord bots
